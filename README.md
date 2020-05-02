@@ -10,6 +10,6 @@ Pneumonia Detection is possible with the help of X-Ray Images by training a Conv
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). In this project, I have used the help of 'Kaggle API' in google colab to download this Dataset & ImageDataGenerator to flow the data into train and test Sets.\
 
 # Model Accuracy
-At the end of 15 Iterations, the model achieved 96.78% Training Accuracy & 98.14 Validation accuracy.
+At the end of 15 Iterations, the model achieved 96.78% Training Accuracy & 98.14% Validation accuracy.
 
 
