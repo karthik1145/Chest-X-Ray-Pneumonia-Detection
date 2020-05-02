@@ -7,6 +7,6 @@ Pneumonia Detection is possible with the help of X-Ray Images by training a Conv
 ![](Images/Image.png)
 
 # Dataset
-The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). In this project, I have used the help of 'Kaggle API' in google colab to download this ImageDataGenerator to flow the data into train and test Sets.
+The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). In this project, I have used the help of 'Kaggle API' in google colab to download this Dataset & ImageDataGenerator to flow the data into train and test Sets.
 
 
